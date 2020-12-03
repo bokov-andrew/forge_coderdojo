@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "thcannons:block/basic_block_registry_name" }
+    }
+}

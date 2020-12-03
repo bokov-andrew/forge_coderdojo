@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "thcannons:block/coin",
+        "up": "thcannons:block/coin",
+        "north": "thcannons:block/coin",
+        "east": "thcannons:block/coin",
+        "south": "thcannons:block/coin",
+        "west": "thcannons:block/coin",
+        "particle": "block/stone_block"
+    }
+}
